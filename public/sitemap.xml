@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://qr.onivue.ch/en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://qr.onivue.ch/de"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://qr.onivue.ch/en"/>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://qr.onivue.ch/de</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://qr.onivue.ch/en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://qr.onivue.ch/de"/>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

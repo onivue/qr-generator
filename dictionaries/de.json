@@ -1,0 +1,19 @@
+{
+  "title": "QR-Code Generator",
+  "description": "Erstellen Sie individuell gestaltete QR-Codes",
+  "form": {
+    "textOrUrl": "Text oder URL",
+    "darkColor": "Dunkle Farbe",
+    "lightColor": "Helle Farbe",
+    "size": "Größe",
+    "errorCorrection": "Fehlerkorrektur",
+    "dotStyle": "Punktstil",
+    "markerStyle": "Äußerer Markierungsstil",
+    "innerMarkerStyle": "Innerer Markierungsstil"
+  },
+  "download": "Herunterladen",
+  "footer": {
+    "builtWith": "Erstellt mit Next.js und Tailwind CSS",
+    "copyright": "© {year} QR-Code Generator. Alle Rechte vorbehalten."
+  }
+}
